@@ -1,0 +1,2026 @@
+/* TID 26784 */ JNIENv->SetStaticObjectField java.lang.System out:Ljava/io/PrintStream;
+/* TID 26784 */ JNIENv->SetStaticObjectField java.lang.System err:Ljava/io/PrintStream;
+/* TID 26784 */ JNIENv->GetStringUTFChars ro.kernel.android.tracing
+/* TID 26784 */ JNIENv->NewStringUTF 
+/* TID 26784 */ JNIENv->GetStringUTFChars android.app.ActivityThread
+/* TID 26839 */ JNIENv->NewStringUTF Binder:26784_1
+/* TID 26840 */ JNIENv->NewStringUTF Binder:26784_2
+/* TID 26784 */ JNIENv->GetStringUTFChars ANDROID_ROOT
+/* TID 26784 */ JNIENv->NewStringUTF /system
+/* TID 26784 */ JNIENv->GetStringUTFChars ANDROID_DATA
+/* TID 26784 */ JNIENv->NewStringUTF /data
+/* TID 26784 */ JNIENv->GetLongField android/app/ActivityThread$ApplicationThread->0x71456bcc 2969813120L
+/* TID 26840 */ JNIENv->GetStringUTFChars android.content.pm.VersionedPackage
+/* TID 26840 */ JNIENv->GetStringUTFChars android.os.LocaleList
+/* TID 26840 */ JNIENv->GetStringUTFChars android.app.WindowConfiguration
+/* TID 26840 */ JNIENv->GetStringUTFChars android.graphics.Rect
+/* TID 26784 */ JNIENv->GetStringUTFChars log.looper.10321.main.slow
+/* TID 26784 */ JNIENv->GetStringUTFChars persist.sys.handler.threshold
+/* TID 26784 */ JNIENv->GetStringUTFChars debug.allocTracker.stackDepth
+/* TID 26784 */ JNIENv->NewStringUTF 
+/* TID 26784 */ JNIENv->GetStringUTFChars com.mobirate.DeadAheadTactics
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/user/0/com.mobirate.DeadAheadTactics
+/* TID 26784 */ JNIENv->GetStringUTFChars vi-VN
+/* TID 26784 */ JNIENv->GetStringUTFChars debug.force_rtl
+/* TID 26784 */ JNIENv->NewStringUTF false
+/* TID 26841 */ JNIENv->NewStringUTF Binder:26784_3
+/* TID 26784 */ JNIENv->GetStringUTFChars android.view.DisplayAddress$Physical
+/* TID 26840 */ JNIENv->GetStringUTFChars android.app.servertransaction.ResumeActivityItem
+/* TID 26784 */ JNIENv->GetStringUTFChars android.view.Display$HdrCapabilities
+/* TID 26784 */ JNIENv->GetLongField android/hardware/display/DisplayManagerGlobal$DisplayManagerCallback->0x71456bcc 2969813376L
+/* TID 26840 */ JNIENv->GetStringUTFChars android.app.servertransaction.LaunchActivityItem
+/* TID 26784 */ JNIENv->GetStringUTFChars ro.miui.cts
+/* TID 26784 */ JNIENv->GetStringUTFChars persist.sys.miui_optimization
+/* TID 26784 */ JNIENv->GetStringUTFChars vi-VN
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x75
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/framework-res
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/framework-res
+/* TID 26784 */ JNIENv->NewStringUTF access
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x79
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/framework-res
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/icons
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/icons
+/* TID 26784 */ JNIENv->NewStringUTF access
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x75
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/icons
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/icons
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/icons
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1030550  66 61 6e 63 79 5f 69 63 6f 6e 73 2f              fancy_icons/
+/* TID 26784 */ JNIENv->GetStringUTFChars UTF-8
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+761886f130  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+761886f140  2f                                               /
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  31 2e 70 6e 67                                   1.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 34  /calendar_icon_4
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  39 2e 70 6e 67                                   9.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c630  38 2e 70 6e 67                                   8.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  39 2e 70 6e 67                                   9.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c630  31 2e 70 6e 67                                   1.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  30 2e 70 6e 67                                   0.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 39  /calendar_icon_9
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 35  /calendar_icon_5
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 6f 72 69 67 69 6e 5f 6d 61 6e 69 66 65 73 74  /origin_manifest
+76b103c630  2e 78 6d 6c                                      .xml
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c670  32 2e 70 6e 67                                   2.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33  /calendar_icon_3
+76b103c630  31 2e 70 6e 67                                   1.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  34 2e 70 6e 67                                   4.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 38  /calendar_icon_8
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  35 2e 70 6e 67                                   5.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33  /calendar_icon_3
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  37 2e 70 6e 67                                   7.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  37 2e 70 6e 67                                   7.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+761886f130  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+761886f140  2f 6d 61 6e 69 66 65 73 74 2e 78 6d 6c           /manifest.xml
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c630  32 2e 70 6e 67                                   2.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c670  30 2e 70 6e 67                                   0.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  35 2e 70 6e 67                                   5.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c670  36 2e 70 6e 67                                   6.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32  /calendar_icon_2
+76b103c630  33 2e 70 6e 67                                   3.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c670  36 2e 70 6e 67                                   6.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  34 2e 70 6e 67                                   4.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c670  33 2e 70 6e 67                                   3.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  38 2e 70 6e 67                                   8.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33  /calendar_icon_3
+76b103c670  30 2e 70 6e 67                                   0.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31  /calendar_icon_1
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 74 61 67 5f 6d 61 6e 69 66 65 73 74 2e 78 6d  /tag_manifest.xm
+76b103c670  6c                                               l
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c620  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 36  /calendar_icon_6
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  61 6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72  android.calendar
+76b103c660  2f 63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 37  /calendar_icon_7
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+761886f130  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 31  calendar_icon_11
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 34 2e  calendar_icon_4.
+76b103c630  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 39  calendar_icon_19
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 2e  calendar_icon_2.
+76b103c630  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 38  calendar_icon_28
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 39  calendar_icon_29
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 31  calendar_icon_21
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 30  calendar_icon_20
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 39 2e  calendar_icon_9.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 35 2e  calendar_icon_5.
+76b103c630  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  6f 72 69 67 69 6e 5f 6d 61 6e 69 66 65 73 74 2e  origin_manifest.
+76b103c670  78 6d 6c                                         xml
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 32  calendar_icon_12
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33 31  calendar_icon_31
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 34  calendar_icon_24
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 38 2e  calendar_icon_8.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 35  calendar_icon_25
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33 2e  calendar_icon_3.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 37  calendar_icon_27
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 37  calendar_icon_17
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+761886f130  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+761886f140  6d 61 6e 69 66 65 73 74 2e 78 6d 6c              manifest.xml
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 32  calendar_icon_22
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 30  calendar_icon_10
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 35  calendar_icon_15
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 36  calendar_icon_26
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 32 33  calendar_icon_23
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 36  calendar_icon_16
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 34  calendar_icon_14
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 33  calendar_icon_13
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 38  calendar_icon_18
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 33 30  calendar_icon_30
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 31 2e  calendar_icon_1.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  74 61 67 5f 6d 61 6e 69 66 65 73 74 2e 78 6d 6c  tag_manifest.xml
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c650  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c660  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 36 2e  calendar_icon_6.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  66 61 6e 63 79 5f 69 63 6f 6e 73 2f 63 6f 6d 2e  fancy_icons/com.
+76b103c610  78 69 61 6f 6d 69 2e 63 61 6c 65 6e 64 61 72 2f  xiaomi.calendar/
+76b103c620  63 61 6c 65 6e 64 61 72 5f 69 63 6f 6e 5f 37 2e  calendar_icon_7.
+76b103c630  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873282  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+7618873292  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761896a048  72 65 73 2f                                      res/
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031522  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031532  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+7618873280  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 68 64  res/drawable-xhd
+7618873290  70 69 2f                                         pi/
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031520  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b1031530  64 70 69 2f                                      dpi/
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 73 65 63  dpi/com.miui.sec
+761886f140  75 72 69 74 79 63 65 6e 74 65 72 2e 70 6e 67     uritycenter.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 73  dpi/com.xiaomi.s
+76b10407f0  63 61 6e 6e 65 72 2e 70 6e 67                    canner.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6b 77 61 69 2e 35 2e 70  dpi/com.kwai.5.p
+761886f140  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 70 6c 61 79 2e 67 61 6d 65  ndroid.play.game
+76b103c630  73 2e 70 6e 67                                   s.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 64 69 73 63 6f 72 64 2e  dpi/com.discord.
+761886f140  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 67 6f 6f 67  ndroid.apps.goog
+76b103c630  6c 65 61 73 73 69 73 74 61 6e 74 2e 70 6e 67     leassistant.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 6d  dpi/com.xiaomi.m
+761886f140  61 72 6b 65 74 2e 70 6e 67                       arket.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 61  dpi/com.xiaomi.a
+76b10407f0  63 63 6f 75 6e 74 2e 70 6e 67                    ccount.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  62 72 6f 77 73 65 72 2e 70 6e 67                 browser.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c620  70 72 6f 76 69 64 65 72 73 2e 64 6f 77 6e 6c 6f  providers.downlo
+76b103c630  61 64 73 2e 70 6e 67                             ads.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 77 65 61  dpi/com.miui.wea
+761886f140  74 68 65 72 32 2e 70 6e 67                       ther2.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 6d 69 73  dpi/com.miui.mis
+76b10407f0  65 72 76 69 63 65 2e 70 6e 67                    ervice.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 62  dpi/com.xiaomi.b
+761886f140  62 73 2e 70 6e 67                                bs.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3e 5d 96 60 75 78 0b 00 01 04 e9  UT...>].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 64 61 74 61 5f 6f 6e 2e 70 6e  oggle_data_on.pn
+76b103c630  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 66 61 63 65 62 6f 6f 6b  dpi/com.facebook
+761886f140  2e 6c 69 74 65 2e 70 6e 67                       .lite.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 70 69 6e 74 65 72 65 73  dpi/com.pinteres
+76b10407f0  74 2e 70 6e 67                                   t.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 76 69 64  dpi/com.miui.vid
+761886f140  65 6f 70 6c 61 79 65 72 2e 70 6e 67              eoplayer.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 77 69 66 69 5f 6f 6e 2e 70 6e  oggle_wifi_on.pn
+76b103c630  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 65 74 65 72 6e 6f 2e 70  dpi/com.eterno.p
+761886f140  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 70 61 79 2e 77 61  dpi/com.mipay.wa
+76b10407f0  6c 6c 65 74 2e 69 6e 2e 70 6e 67                 llet.in.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 69 6e 70 75 74 6d 65 74 68  ndroid.inputmeth
+76b103c630  6f 64 2e 6c 61 74 69 6e 2e 70 6e 67              od.latin.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c660  6f 67 67 6c 65 5f 64 61 74 61 5f 6f 66 66 2e 70  oggle_data_off.p
+76b103c670  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 66 6c 69 67 68 74 5f 6d 6f 64  oggle_flight_mod
+76b103c630  65 5f 6f 6e 2e 70 6e 67                          e_on.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b10407f0  6e 64 72 6f 69 64 2e 6b 65 65 70 2e 70 6e 67     ndroid.keep.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 67 6f 6f 67 6c 65 71 75 69  ndroid.googlequi
+76b103c630  63 6b 73 65 61 72 63 68 62 6f 78 2e 70 6e 67     cksearchbox.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 69 6e 73 74 61 67 72 61  dpi/com.instagra
+76b10407f0  6d 2e 61 6e 64 72 6f 69 64 2e 70 6e 67           m.android.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 69 6e 74 73 69 67 2e 63  dpi/com.intsig.c
+761886f140  61 6d 73 63 61 6e 6e 65 72 2e 70 6e 67           amscanner.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  65 6d 61 69 6c 2e 70 6e 67                       email.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 6d  dpi/com.xiaomi.m
+761886f140  69 70 69 63 6b 73 2e 70 6e 67                    ipicks.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b10407f0  6f 67 67 6c 65 5f 6c 6f 63 6b 2e 70 6e 67        oggle_lock.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  73 65 74 74 69 6e 67 73 2e 70 6e 67              settings.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85040  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f85050  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b0f85060  6e 64 72 6f 69 64 2e 61 70 70 73 2e 64 6f 63 73  ndroid.apps.docs
+76b0f85070  2e 65 64 69 74 6f 72 73 2e 64 6f 63 73 2e 70 6e  .editors.docs.pn
+76b0f85080  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 73 63 72  dpi/com.miui.scr
+761886f140  65 65 6e 72 65 63 6f 72 64 65 72 2e 70 6e 67     eenrecorder.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 69 63 6f 6e 5f 66 6f 6c 64 65 72 2e  dpi/icon_folder.
+76b10407f0  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 7a 68 69 6c 69 61 6f 61  dpi/com.zhiliaoa
+76b103c620  70 70 2e 6d 75 73 69 63 61 6c 6c 79 2e 70 6e 67  pp.musically.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 61 70 70 73 2e 70 6f 64 63  ndroid.apps.podc
+76b103c670  61 73 74 73 2e 70 6e 67                          asts.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 70 68 6f 74  ndroid.apps.phot
+76b103c630  6f 73 2e 70 6e 67                                os.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  63 61 6c 65 6e 64 61 72 2e 70 6e 67              calendar.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 73 6e 61 70 63 68 61 74  dpi/com.snapchat
+761886f140  2e 61 6e 64 72 6f 69 64 2e 70 6e 67              .android.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 6f 72 67 2e 6d 6f 7a 69 6c 6c 61 2e  dpi/org.mozilla.
+76b10407f0  66 69 72 65 66 6f 78 2e 70 6e 67                 firefox.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 73 70 6f 74 69 66 79 2e  dpi/com.spotify.
+761886f140  6d 75 73 69 63 2e 70 6e 67                       music.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 64  dpi/com.xiaomi.d
+76b10407f0  69 73 63 6f 76 65 72 2e 70 6e 67                 iscover.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 63 72 65 64 69 74  dpi/com.micredit
+761886f140  2e 69 6e 2e 70 6e 67                             .in.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 68 6f 6d  dpi/com.miui.hom
+76b10407f0  65 2e 74 6f 67 67 6c 65 5f 62 67 2e 70 6e 67     e.toggle_bg.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 6c 61 62 2e 63 61 6d  dpi/com.mlab.cam
+761886f140  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 79 6f 75 74 75 62 65 2e 70  ndroid.youtube.p
+76b103c630  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  63 6f 6e 74 61 63 74 73 2e 70 6e 67              contacts.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 62 6c 75 65 74 6f 6f 74 68 5f  oggle_bluetooth_
+76b103c630  6f 6e 2e 70 6e 67                                on.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 61 70 70 73 2e 62 6f 6f 6b  ndroid.apps.book
+76b103c670  73 2e 70 6e 67                                   s.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 64 6f 63 73  ndroid.apps.docs
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6e 69 6b 65 2e 6f 6d 65  dpi/com.nike.ome
+761886f140  67 61 2e 70 6e 67                                ga.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  67 61 6c 6c 65 72 79 33 64 2e 70 6e 67           gallery3d.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 74 6f 72 63 68 5f 6f 6e 2e 70  oggle_torch_on.p
+76b103c630  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 69 63 6f 6e 5f 66 6f 6c 64 65 72 5f  dpi/icon_folder_
+76b10407f0  6c 69 67 68 74 2e 70 6e 67                       light.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 6e 65 74 2e 6f 6e 65 39 37 2e 70 61  dpi/net.one97.pa
+761886f140  79 74 6d 2e 70 6e 67                             ytm.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6f 70 65 72 61 2e 6d 69  dpi/com.opera.mi
+76b10407f0  6e 69 2e 6e 61 74 69 76 65 2e 70 6e 67           ni.native.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 77 69 66 69 5f 61 70 5f 6f 66  oggle_wifi_ap_of
+76b103c630  66 2e 70 6e 67                                   f.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 76 69 64  dpi/com.miui.vid
+76b10407f0  65 6f 2e 70 6e 67                                eo.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 73 65 63  dpi/com.miui.sec
+76b103c620  75 72 69 74 79 63 65 6e 74 65 72 2e 4d 61 69 6e  uritycenter.Main
+76b103c630  41 63 74 69 76 69 74 79 2e 70 6e 67              Activity.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c660  6f 67 67 6c 65 5f 62 6c 75 65 74 6f 6f 74 68 5f  oggle_bluetooth_
+76b103c670  6f 66 66 2e 70 6e 67                             off.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c620  6f 67 67 6c 65 5f 77 69 66 69 5f 6f 66 66 2e 70  oggle_wifi_off.p
+76b103c630  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 63 6c 6f  dpi/com.miui.clo
+76b10407f0  75 64 73 65 72 76 69 63 65 2e 70 6e 67           udservice.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  63 61 6c 63 75 6c 61 74 6f 72 32 2e 70 6e 67     calculator2.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 67 61 6c  dpi/com.miui.gal
+76b10407f0  6c 65 72 79 2e 70 6e 67                          lery.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 67  dpi/com.xiaomi.g
+761886f140  61 6d 65 63 65 6e 74 65 72 2e 70 6e 67           amecenter.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 79 6f 75 74  ndroid.apps.yout
+76b103c630  75 62 65 2e 6d 75 73 69 63 2e 70 6e 67           ube.music.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 62 61 72  dpi/com.miui.bar
+761886f140  63 6f 64 65 73 63 61 6e 6e 65 72 2e 70 6e 67     codescanner.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  75 70 64 61 74 65 72 2e 70 6e 67                 updater.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 70 61 79 70 61 6c 2e 61  dpi/com.paypal.a
+76b103c620  6e 64 72 6f 69 64 2e 70 32 70 6d 6f 62 69 6c 65  ndroid.p2pmobile
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 74 69 6e 64 65 72 2e 70  dpi/com.tinder.p
+76b10407f0  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+761886f140  72 2e 6c 65 6e 73 2e 70 6e 67                    r.lens.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  6d 75 73 69 63 2e 70 6e 67                       music.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85040  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f85050  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b0f85060  70 72 6f 76 69 64 65 72 73 2e 63 6f 6e 74 61 63  providers.contac
+76b0f85070  74 73 2e 43 61 6c 6c 4c 6f 67 50 72 6f 76 69 64  ts.CallLogProvid
+76b0f85080  65 72 2e 70 6e 67                                er.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 66 75 6e 6e 79 70 75 72  dpi/com.funnypur
+76b10407f0  69 2e 63 6c 69 65 6e 74 2e 70 6e 67              i.client.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 70 68 6f 6e 65 70 65 2e  dpi/com.phonepe.
+761886f140  61 70 70 2e 70 6e 67                             app.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 63 61 6c  dpi/com.miui.cal
+76b10407f0  63 75 6c 61 74 6f 72 2e 70 6e 67                 culator.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 66 6f 6c 64 65 72 5f 69 63 6f 6e 5f  dpi/folder_icon_
+761886f140  63 6f 76 65 72 2e 70 6e 67                       cover.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6e 2e 77 70 73 2e 6d 6f 66 66 69  dpi/cn.wps.moffi
+76b10407f0  63 65 5f 65 6e 67 2e 70 6e 67                    ce_eng.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  6d 6d 73 2e 70 6e 67                             mms.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 2e 67 6c 6f 62 61  dpi/com.mi.globa
+76b10407f0  6c 62 72 6f 77 73 65 72 2e 70 6e 67              lbrowser.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 2e 67 6c 6f 62 61  dpi/com.mi.globa
+761886f140  6c 2e 73 68 6f 70 2e 70 6e 67                    l.shop.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 74 65 6e 63 65 6e 74 2e  dpi/com.tencent.
+76b10407f0  71 71 2e 70 6e 67                                qq.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+761886f140  6e 64 72 6f 69 64 2e 67 6d 2e 70 6e 67           ndroid.gm.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  64 65 73 6b 63 6c 6f 63 6b 2e 70 6e 67           deskclock.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 6d 69 2e 61 6e 64 72 6f  dpi/com.mi.andro
+76b103c620  69 64 2e 67 6c 6f 62 61 49 46 69 6c 65 65 78 70  id.globaIFileexp
+76b103c630  6c 6f 72 65 72 2e 70 6e 67                       lorer.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c660  6f 67 67 6c 65 5f 77 69 66 69 5f 61 70 5f 6f 6e  oggle_wifi_ap_on
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 66 61 63 65 62 6f 6f 6b  dpi/com.facebook
+76b10407f0  2e 6f 72 63 61 2e 70 6e 67                       .orca.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 63 6f 6d  dpi/com.miui.com
+761886f140  70 61 73 73 2e 70 6e 67                          pass.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 66 61 63 65 62 6f 6f 6b  dpi/com.facebook
+76b10407f0  2e 6b 61 74 61 6e 61 2e 70 6e 67                 .katana.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6e 65 74 66 6c 69 78 2e  dpi/com.netflix.
+761886f140  6d 65 64 69 61 63 6c 69 65 6e 74 2e 70 6e 67     mediaclient.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 6d 69 2e 61 6e 64 72 6f  dpi/com.mi.andro
+76b103c660  69 64 2e 67 6c 6f 62 61 6c 46 69 6c 65 65 78 70  id.globalFileexp
+76b103c670  6c 6f 72 65 72 2e 70 6e 67                       lorer.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 7a 68 69 6c 69 61 6f 61  dpi/com.zhiliaoa
+76b103c620  70 70 2e 6d 75 73 69 63 61 6c 6c 79 2e 67 6f 2e  pp.musically.go.
+76b103c630  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 69 63 6f 6e 5f 70 61 74 74 65 72 6e  dpi/icon_pattern
+761886f140  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  63 68 72 6f 6d 65 2e 70 6e 67                    chrome.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 74 61 63 68  ndroid.apps.tach
+76b103c630  79 6f 6e 2e 70 6e 67                             yon.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85040  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f85050  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b0f85060  6e 64 72 6f 69 64 2e 61 70 70 73 2e 64 6f 63 73  ndroid.apps.docs
+76b0f85070  2e 65 64 69 74 6f 72 73 2e 73 68 65 65 74 73 2e  .editors.sheets.
+76b0f85080  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 72 75 2e 6f 6b 2e 61 6e 64 72 6f 69  dpi/ru.ok.androi
+76b10407f0  64 2e 70 6e 67                                   d.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c620  70 72 6f 76 69 64 65 72 73 2e 63 6f 6e 74 61 63  providers.contac
+76b103c630  74 73 2e 70 6e 67                                ts.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 61 70 70 73 2e 6d 61 70 73  ndroid.apps.maps
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 6e 6f 74  dpi/com.miui.not
+76b10407f0  65 73 2e 70 6e 67                                es.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 78  dpi/com.xiaomi.x
+76b103c660  6d 73 66 2e 43 6c 6f 75 64 4d 65 73 73 61 67 69  msf.CloudMessagi
+76b103c670  6e 67 2e 70 6e 67                                ng.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 74 72 61 6e  ndroid.apps.tran
+76b103c630  73 6c 61 74 65 2e 70 6e 67                       slate.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 55 43 4d 6f 62 69 6c 65  dpi/com.UCMobile
+76b10407f0  2e 69 6e 74 6c 2e 70 6e 67                       .intl.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 66 6d 72  dpi/com.miui.fmr
+761886f140  61 64 69 6f 2e 70 6e 67                          adio.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 66 6d 2e  dpi/com.miui.fm.
+76b10407f0  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 66 6d 73  dpi/com.miui.fms
+761886f140  65 72 76 69 63 65 2e 70 6e 67                    ervice.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c620  74 68 65 6d 65 6d 61 6e 61 67 65 72 2e 70 6e 67  thememanager.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 77 68 61 74 73 61 70 70  dpi/com.whatsapp
+761886f140  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85040  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f85050  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 78  dpi/com.xiaomi.x
+76b0f85060  6d 73 66 2e 61 63 63 6f 75 6e 74 2e 75 69 2e 4d  msf.account.ui.M
+76b0f85070  69 43 6c 6f 75 64 53 65 74 74 69 6e 67 73 41 63  iCloudSettingsAc
+76b0f85080  74 69 76 69 74 79 2e 70 6e 67                    tivity.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 64 75 6f 6b 61 6e 2e 70  dpi/com.duokan.p
+76b103c620  68 6f 6e 65 2e 72 65 6d 6f 74 65 63 6f 6e 74 72  hone.remotecontr
+76b103c630  6f 6c 6c 65 72 2e 70 6e 67                       oller.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c660  73 6f 75 6e 64 72 65 63 6f 72 64 65 72 2e 70 6e  soundrecorder.pn
+76b103c670  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85040  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f85050  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b0f85060  6e 64 72 6f 69 64 2e 61 70 70 73 2e 64 6f 63 73  ndroid.apps.docs
+76b0f85070  2e 65 64 69 74 6f 72 73 2e 73 6c 69 64 65 73 2e  .editors.slides.
+76b0f85080  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85090  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f850a0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b0f850b0  63 6f 6e 74 61 63 74 73 2e 61 63 74 69 76 69 74  contacts.activit
+76b0f850c0  69 65 73 2e 54 77 65 6c 76 65 4b 65 79 44 69 61  ies.TwelveKeyDia
+76b0f850d0  6c 65 72 2e 70 6e 67                             ler.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 61 6d 61 7a 6f 6e 2e 6d  dpi/com.amazon.m
+76b103c660  53 68 6f 70 2e 61 6e 64 72 6f 69 64 2e 73 68 6f  Shop.android.sho
+76b103c670  70 70 69 6e 67 2e 70 6e 67                       pping.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 72 75 2e 79 61 6e 64 65 78 2e 73 65  dpi/ru.yandex.se
+761886f140  61 72 63 68 70 6c 75 67 69 6e 2e 70 6e 67        archplugin.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 70 6c 61  dpi/com.miui.pla
+76b10407f0  79 65 72 2e 70 6e 67                             yer.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 68 75 6c 75 2e 70 6c 75  dpi/com.hulu.plu
+761886f140  73 2e 70 6e 67                                   s.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 66 61 63 65 62 6f 6f 6b  dpi/com.facebook
+76b10407f0  2e 6d 6c 69 74 65 2e 70 6e 67                    .mlite.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 73 75 70  dpi/com.miui.sup
+761886f140  65 72 6d 61 72 6b 65 74 2e 70 6e 67              ermarket.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 63 6f 6e 74 65 78 74 6c  dpi/com.contextl
+76b10407f0  6f 67 69 63 2e 77 69 73 68 2e 70 6e 67           ogic.wish.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c660  66 69 6c 65 65 78 70 6c 6f 72 65 72 2e 70 6e 67  fileexplorer.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 75 63 2e 76 6d 61 74 65  dpi/com.uc.vmate
+76b10407f0  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 63 72 6f 73 6f 66  dpi/com.microsof
+761886f140  74 2e 65 6d 6d 78 2e 70 6e 67                    t.emmx.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c660  70 72 6f 76 69 64 65 72 73 2e 64 6f 77 6e 6c 6f  providers.downlo
+76b103c670  61 64 73 2e 75 69 2e 70 6e 67                    ads.ui.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 67 72 61 79 6d 61 74 72  dpi/com.graymatr
+761886f140  69 78 2e 64 69 64 2e 70 6e 67                    ix.did.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 76 69 64 65 6f 73 2e 70 6e  ndroid.videos.pn
+76b103c670  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 76  dpi/com.xiaomi.v
+761886f140  69 70 61 63 63 6f 75 6e 74 2e 70 6e 67           ipaccount.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85090  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f850a0  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 73  dpi/com.xiaomi.s
+76b0f850b0  68 6f 70 2e 61 63 74 69 76 69 74 79 2e 4d 61 69  hop.activity.Mai
+76b0f850c0  6e 54 61 62 41 63 74 69 76 69 74 79 2e 70 6e 67  nTabActivity.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  76 65 6e 64 69 6e 67 2e 70 6e 67                 vending.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 61 70 70 2e 62 75 7a 7a 2e 73 68 61  dpi/app.buzz.sha
+76b10407f0  72 65 2e 70 6e 67                                re.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 65 62 61 79 2e 6d 6f 62  dpi/com.ebay.mob
+761886f140  69 6c 65 2e 70 6e 67                             ile.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 63 61 6c 65 6e 64 61 72 2e  ndroid.calendar.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 6d 78 74 65 63 68 2e 76  dpi/com.mxtech.v
+76b103c620  69 64 65 6f 70 6c 61 79 65 72 2e 61 64 2e 70 6e  ideoplayer.ad.pn
+76b103c630  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c660  6f 67 67 6c 65 5f 66 6c 69 67 68 74 5f 6d 6f 64  oggle_flight_mod
+76b103c670  65 5f 6f 66 66 2e 70 6e 67                       e_off.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+761886f140  70 68 6f 6e 65 2e 70 6e 67                       phone.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 61 70 70 73 2e 66 69 74 6e  ndroid.apps.fitn
+76b103c670  65 73 73 2e 70 6e 67                             ess.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 76 69 64 65 6f 2e 6c 69 6b 65 2e 70  dpi/video.like.p
+761886f140  6e 67                                            ng
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 75 62 65 72 63 61 62 2e  dpi/com.ubercab.
+76b10407f0  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 74 65 6e 63 65 6e 74 2e  dpi/com.tencent.
+761886f140  6d 6f 62 69 6c 65 71 71 2e 70 6e 67              mobileqq.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 64 64 2e 64 6f 6f 72 64  dpi/com.dd.doord
+76b10407f0  61 73 68 2e 70 6e 67                             ash.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 63 6f 6e 74 61 63 74 73 2e  ndroid.contacts.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 62 75 67  dpi/com.miui.bug
+76b10407f0  72 65 70 6f 72 74 2e 70 6e 67                    report.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 74 72 75 65 63 61 6c 6c  dpi/com.truecall
+761886f140  65 72 2e 70 6e 67                                er.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b10407f0  63 61 6d 65 72 61 2e 70 6e 67                    camera.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 61 70 70 73 2e 6e 62 75 2e  ndroid.apps.nbu.
+76b103c670  70 61 69 73 61 2e 75 73 65 72 2e 70 6e 67        paisa.user.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 73 73 2e 61 6e 64 72 6f  dpi/com.ss.andro
+76b10407f0  69 64 2e 75 67 63 2e 62 6f 6f 6d 2e 70 6e 67     id.ugc.boom.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 73 68 61 7a 61 6d 2e 61  dpi/com.shazam.a
+761886f140  6e 64 72 6f 69 64 2e 70 6e 67                    ndroid.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 6d 65 2e 6c 79 66 74 2e 61 6e 64 72  dpi/me.lyft.andr
+76b10407f0  6f 69 64 2e 70 6e 67                             oid.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 63  dpi/com.xiaomi.c
+761886f140  61 6c 65 6e 64 61 72 2e 70 6e 67                 alendar.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85090  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f850a0  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b0f850b0  6e 64 72 6f 69 64 2e 61 70 70 73 2e 73 75 62 73  ndroid.apps.subs
+76b0f850c0  63 72 69 70 74 69 6f 6e 73 2e 72 65 64 2e 70 6e  criptions.red.pn
+76b0f850d0  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 77 68 61 74 73 61 70 70  dpi/com.whatsapp
+761886f140  2e 77 34 62 2e 70 6e 67                          .w4b.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 6d 69 2e 61 6e 64 72 6f  dpi/com.mi.andro
+76b103c660  69 64 2e 67 6c 6f 62 61 6c 6c 61 75 6e 63 68 65  id.globallaunche
+76b103c670  72 2e 70 6e 67                                   r.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+761886f140  6e 64 72 6f 69 64 2e 69 6d 73 2e 70 6e 67        ndroid.ims.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 65  dpi/com.google.e
+76b10407f0  61 72 74 68 2e 70 6e 67                          arth.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 73  dpi/com.xiaomi.s
+761886f140  6d 61 72 74 68 6f 6d 65 2e 70 6e 67              marthome.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6f 70 65 72 61 2e 62 72  dpi/com.opera.br
+76b10407f0  6f 77 73 65 72 2e 70 6e 67                       owser.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 70  dpi/com.xiaomi.p
+761886f140  61 64 73 68 6f 70 2e 70 6e 67                    adshop.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 73 74 61 74 75 73 5f 62 61 72 5f 74  dpi/status_bar_t
+76b103c660  6f 67 67 6c 65 5f 74 6f 72 63 68 5f 6f 66 66 2e  oggle_torch_off.
+76b103c670  70 6e 67                                         png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 6d 61 67 61  ndroid.apps.maga
+76b103c630  7a 69 6e 65 73 2e 70 6e 67                       zines.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b0f85090  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b0f850a0  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b0f850b0  6e 64 72 6f 69 64 2e 61 70 70 73 2e 69 6e 70 75  ndroid.apps.inpu
+76b0f850c0  74 6d 65 74 68 6f 64 2e 68 69 6e 64 69 2e 70 6e  tmethod.hindi.pn
+76b0f850d0  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 6d 69 75 69 2e 73 65 63  dpi/com.miui.sec
+76b103c620  75 72 69 74 79 63 65 6e 74 65 72 2e 4d 61 69 6e  uritycenter.Main
+76b103c630  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 74 77 69 74 74 65 72 2e  dpi/com.twitter.
+761886f140  61 6e 64 72 6f 69 64 2e 70 6e 67                 android.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 69 6e 2e 6d 6f 68 61 6c 6c 61 2e 73  dpi/in.mohalla.s
+76b10407f0  68 61 72 65 63 68 61 74 2e 70 6e 67              harechat.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 73  dpi/com.xiaomi.s
+761886f140  68 6f 70 2e 70 6e 67                             hop.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 76 65 6e 6d 6f 2e 70 6e  dpi/com.venmo.pn
+76b10407f0  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 61 69 72 62 6e 62 2e 61  dpi/com.airbnb.a
+761886f140  6e 64 72 6f 69 64 2e 70 6e 67                    ndroid.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 61 6e 64 72 6f 69 64 2e  dpi/com.android.
+76b103c620  70 72 6f 76 69 64 65 72 73 2e 74 65 6c 65 70 68  providers.teleph
+76b103c630  6f 6e 79 2e 70 6e 67                             ony.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 6d 69 2e 67 6c 6f 62 61  dpi/com.mi.globa
+761886f140  6c 2e 62 62 73 2e 70 6e 67                       l.bbs.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 74 65 6e 63 65 6e 74 2e  dpi/com.tencent.
+76b10407f0  61 6e 64 72 6f 69 64 2e 70 61 64 2e 70 6e 67     android.pad.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 69 63 6f 6e 5f 6d 61 73 6b 2e 70 6e  dpi/icon_mask.pn
+761886f140  67                                               g
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 6f 72 67 2e 74 65 6c 65 67 72 61 6d  dpi/org.telegram
+76b10407f0  2e 6d 65 73 73 65 6e 67 65 72 2e 70 6e 67        .messenger.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 6a 70 2e 6e 61 76 65 72 2e 6c 69 6e  dpi/jp.naver.lin
+761886f140  65 2e 61 6e 64 72 6f 69 64 2e 70 6e 67           e.android.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 74 65 6e 63 65 6e 74 2e  dpi/com.tencent.
+76b10407f0  6d 6d 2e 70 6e 67                                mm.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c600  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c610  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c620  6e 64 72 6f 69 64 2e 61 70 70 73 2e 77 61 6c 6c  ndroid.apps.wall
+76b103c630  65 74 6e 66 63 72 65 6c 2e 70 6e 67              etnfcrel.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 67  dpi/com.xiaomi.g
+76b103c660  61 6d 65 62 6f 6f 73 74 65 72 67 6c 6f 62 61 6c  ameboosterglobal
+76b103c670  2e 70 6e 67                                      .png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10407d0  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b10407e0  64 70 69 2f 63 6f 6d 2e 6b 77 61 69 2e 76 69 64  dpi/com.kwai.vid
+76b10407f0  65 6f 2e 70 6e 67                                eo.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+761886f120  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+761886f130  64 70 69 2f 63 6f 6d 2e 78 69 61 6f 6d 69 2e 6d  dpi/com.xiaomi.m
+761886f140  69 64 72 6f 70 2e 70 6e 67                       idrop.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b1031502  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b1031512  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b103c640  72 65 73 2f 64 72 61 77 61 62 6c 65 2d 78 78 68  res/drawable-xxh
+76b103c650  64 70 69 2f 63 6f 6d 2e 67 6f 6f 67 6c 65 2e 61  dpi/com.google.a
+76b103c660  6e 64 72 6f 69 64 2e 6d 75 73 69 63 2e 70 6e 67  ndroid.music.png
+/* TID 26784 */ JNIENv->SetByteArrayRegion              0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  0123456789ABCDEF
+76b10315a2  55 54 05 00 03 3f 5d 96 60 75 78 0b 00 01 04 e9  UT...?].`ux.....
+76b10315b2  03 00 00 04 e9 03 00 00                          ........
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/lockscreen
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/lockscreen
+/* TID 26784 */ JNIENv->NewStringUTF access
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x75
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/lockscreen
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x79
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/framework-miui-res
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/system/theme/framework-miui-res
+/* TID 26784 */ JNIENv->NewStringUTF access
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/media/theme/default/framework-miui-res
+/* TID 26840 */ JNIENv->GetStringUTFChars android.app.servertransaction.TopResumedActivityChangeItem
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /product/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /product/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64:/data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk!/lib/arm64-v8a
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/user/0/com.mobirate.DeadAheadTactics
+/* TID 26784 */ JNIENv->FindClass java/lang/ClassLoader
+/* TID 26784 */ JNIENv->CallObjectMethodV dalvik/system/PathClassLoader->getParent()Ljava/lang/ClassLoader; 0x85
+/* TID 26784 */ JNIENv->FindClass java/lang/ClassLoader
+/* TID 26784 */ JNIENv->CallObjectMethodV java/lang/BootClassLoader->getParent()Ljava/lang/ClassLoader; 0x0
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /product/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /product/lib64
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64:/data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk!/lib/arm64-v8a
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/user/0/com.mobirate.DeadAheadTactics
+/* TID 26784 */ JNIENv->FindClass java/lang/ClassLoader
+/* TID 26784 */ JNIENv->CallObjectMethodV dalvik/system/PathClassLoader->getParent()Ljava/lang/ClassLoader; 0x89
+/* TID 26784 */ JNIENv->FindClass java/lang/ClassLoader
+/* TID 26784 */ JNIENv->CallObjectMethodV java/lang/BootClassLoader->getParent()Ljava/lang/ClassLoader; 0x0
+/* TID 26784 */ JNIENv->GetStringUTFChars androidx.core.app.CoreComponentFactory
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64/libpairipcore.so
+/* TID 26784 */ JNIENv->GetIntField java/io/FileDescriptor->0x70c067f0 57
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/lib/arm64/libpairipcore.so
+/* TID 26784 */ JNIENv->CallObjectMethodV dalvik/system/PathClassLoader->0x70e00ab8 0x71
+/* TID 26784 */ JNIENv->FindClass java/lang/Float
+/* TID 26784 */ JNIENv->FindClass java/lang/Double
+/* TID 26784 */ JNIENv->FindClass java/lang/Long
+/* TID 26784 */ JNIENv->FindClass java/lang/Integer
+/* TID 26784 */ JNIENv->FindClass java/lang/Short
+/* TID 26784 */ JNIENv->FindClass java/lang/Byte
+/* TID 26784 */ JNIENv->FindClass java/lang/Character
+/* TID 26784 */ JNIENv->FindClass java/lang/Boolean
+/* TID 26784 */ JNIENv->FindClass com/pairip/VMRunner
+/* TID 26784 */ JNIENv->FindClass com/pairip/VMRunner
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars /system/framework/org.apache.http.legacy.jar
+/* TID 26784 */ JNIENv->GetStringUTFChars UTF-8
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x75
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars UTF-8
+/* TID 26784 */ JNIENv->GetObjectField java/io/File->0x70bf4c00 0x71
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars /data/app/com.mobirate.DeadAheadTactics-N3NM3KIo4ZTy86EsbCbMCg==/base.apk
+/* TID 26784 */ JNIENv->GetStringUTFChars UTF-8
+/* TID 26784 */ JNIENv->NewStringUTF /proc/self/maps
+/* TID 26784 */ JNIENv->FindClass java/io/File
+/* TID 26784 */ JNIENv->FindClass java/io/File
+/* TID 26784 */ JNIENv->CallLongMethodA java/io/File->length()J
+/* TID 26784 */ JNIENv->GetStringUTFChars /proc/self/maps
+/* TID 26784 */ JNIENv->NewStringUTF /proc/self/status
+/* TID 26784 */ JNIENv->FindClass java/io/File
+/* TID 26784 */ JNIENv->CallLongMethodA java/io/File->length()J
+/* TID 26784 */ JNIENv->GetStringUTFChars /proc/self/status
+Error: can't decode byte 0xf3 in position 0
+    at <anonymous> (frida/runtime/core.js:141)
+    at onEnter (agent/index.ts:433)
