@@ -1,12 +1,12 @@
 # jtrace
 
-参考[JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook)
+Refer to[JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook)
 
-增加更详细的jni信息打印，以辅助unidbg补环境为主要目的
+Add more detailed jni information printing, with the main purpose of assisting unidbg to supplement the environment
 
-**完善ing**
+**Complete**
 
-# 准备
+# Prepare
 
 ```bash
 pip install frida==14.2.18
@@ -16,7 +16,7 @@ pip install hexdump
 npm install
 ```
 
-# 使用
+# Use
 
 ```bash
 frida -U -n com.xingin.xhs -l _agent.js -o jni.log
@@ -25,26 +25,26 @@ frida -U -f com.iqiyi.i18n -l _agent.js -o jni.log --no-pause
 frida -U -f com.cmcc.cmvideo.miguc -l _agent.js -o jni.log --no-pause
 ```
 
-由于不同系统、frida版本所体现的体制不同，因此分了两个版本
+Due to different systems and frida versions embodying different systems, there are two versions
 
-- `_agent.js` 更快，但部分环境下可能不支持
-    - 编译命令 `npm run build`
+- `_agent.js` Faster, but may not be supported in some environments
+    - Compile command `npm run build`
 - `_agent_stable.js` 兼容性更好
-    - 编译命令 `npm run build-stable`
+    - Compile command `npm run build-stable`
 
-核心关键代码没有区别，主要区别在于stable版将一些调用放在了`Java.perform`中
+There is no difference in the core key code, the main difference is that the stable version puts some calls in `Java.perform`
 
-Tips! 脚本正在完善中，使用请自行调整脚本
+Tips! The script is being improved, please adjust the script yourself
 
-# 特性
+# Features
 
-- 日志与unidbg匹配，补环境效率up
-- 对attach模式友好
-- 代码易读
+- The log matches unidbg, and the environmental efficiency is improved
+- Friendly to attach mode
+- Easy to read code
 
-# 说明
+# Illustrate
 
-- `show_cache_log` 用于决定是否打印下列jni方法的信息
+- `show_cache_log` Used to decide whether to print the information of the following jni methods
     - `GetFieldID`
     - `GetStaticFieldID`
     - `GetMethodID`
